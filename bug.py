@@ -7,7 +7,7 @@ import time
 import requests 
 import os
 useremail='b10909029@gapps.ntust.edu.tw'
-password='qweewwioppoo'
+password='***********'
 login_url='https://www.instagram.com/'
 
 browser=webdriver.Chrome( )
